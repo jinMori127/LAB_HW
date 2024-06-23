@@ -1,0 +1,1 @@
+SELECT SUM(Wins) AS SumWins FROM Teams WHERE Team LIKE 'Hapoel';

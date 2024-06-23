@@ -1,0 +1,1 @@
+SELECT AVG(Age) AS average FROM Players;

@@ -1,0 +1,1 @@
+SELECT DISTINCT House FROM Houses;
